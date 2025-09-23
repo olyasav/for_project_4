@@ -17,4 +17,4 @@ https://disk.yandex.by/i/Si5KIRPeGNNwGg
 ### Дашборд:
 https://datalens.yandex.cloud/sm5723x6rlryd-finansovye-pokazateli?tab=Q1&state=906a60c4361
     
-###### авторство ООО "Карпов Курсы" https://karpov.courses
+###### https://karpov.courses
